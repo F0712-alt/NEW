@@ -1,5 +1,7 @@
 a = 5
 b = 4
 
-if a > b:
+if a < b:
     print("Hello")
+else:
+    print ("Hi")
